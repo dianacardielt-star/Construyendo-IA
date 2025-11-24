@@ -32,9 +32,8 @@ Se crearía un HDD externo, compatible con los 4 S.O. principales a saber: Linux
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
 
+https://github.com/dianacardielt-star/Construyendo-IA/blob/main/IA%20%2B%20Python%20%2B%20ense%C3%B1anza.png
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
 
 This is how you create code examples:
 ```
