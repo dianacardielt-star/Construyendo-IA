@@ -8,26 +8,42 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+Creación de agentes de IA personalizados basados en Chat GPT y Llama para su uso offline y local, para ayuda en escuelas con recursos limitados, proporcionando al docente herramientas para diferentes niveles y asignaturas desde el mismo lugar.
 
-Creación de agentes de IA personalizados para su uso offline y local, para ayuda en escuelas con recursos limitados, proporcionando al docente recursos para diferentes niveles y áreas desde el mismo lugar.
-
+Creation of custom AI agents based on Chat GPT and Llama for offline and local use, to help in schools with limited resources, providing teachers with tools for different levels and subjects from the same place.
 
 ## Background
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+  
 En muchas escuelas, las aulas están compuestas por grupos de infantes de diferentes edades y al docente apenas le da tiempo a preparar las clases o las alarga en el tiempo para cubrir la mínima enseñanza para todos los estudiantes.
+
+In many schools, classrooms are made up of groups of children of different ages, and the teacher barely has time to prepare the classes or extends them in time to cover the minimum teaching for all students.
 
 ## How is it used?
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
+* Cración del Árbol de directorios.
+* Configuración.
+* Scripts de arranque para Windows/Linux/Mac/Android
+* Archivo principal del agente
+* Instrucciones de instalación con un Readme.md
+* Tiempo previsto para la creación de un HHDD con 1 agente específico para la docencia: 2 semanas aprox. con dedicación de 7.5 h. diarias.
+* Será usado por los docentes.
+
 Se crearía un HDD externo, compatible con los 4 S.O. principales a saber: Linux, Windows, Mac y Android, separando cada grupo de archivos según SO para crear el menú ejecutable para lanzar el agente. Se realizaría en lenguaje Python, para facilitar su estudio y comprensión.
+
+* Creation of the Directory Tree.
+* Configuration.
+* Boot scripts for Windows/Linux/Mac/Android
+* Main agent file
+* Installation instructions with a Readme.md file
+* Estimated time for creating a hard drive with one agent specifically for teaching: approximately 2 weeks, with a daily workload of 7.5 hours.
+
+It will be used by teachers.
+
+An external hard drive will be created, compatible with the four main operating systems: Linux, Windows, Mac, and Android. Each group of files will be separated according to the operating system to create the executable menu for launching the agent. It will be developed in Python to facilitate its study and understanding.
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
