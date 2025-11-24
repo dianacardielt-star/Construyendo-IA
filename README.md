@@ -10,6 +10,8 @@ Final project for the Building AI course
 
 Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
 
+Creación de agentes de IA personalizados para su uso offline y local, para ayuda en escuelas con recursos limitados, proporcionando al docente recursos para diferentes niveles y áreas desde el mismo lugar.
+
 
 ## Background
 
@@ -19,15 +21,17 @@ This is how you make a list, if you need one:
 * problem 1
 * problem 2
 * etc.
-
+En muchas escuelas, las aulas están compuestas por grupos de infantes de diferentes edades y al docente apenas le da tiempo a preparar las clases o las alarga en el tiempo para cubrir la mínima enseñanza para todos los estudiantes.
 
 ## How is it used?
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
 
+Se crearía un HDD externo, compatible con los 4 S.O. principales a saber: Linux, Windows, Mac y Android, separando cada grupo de archivos según SO para crear el menú ejecutable para lanzar el agente. Se realizaría en lenguaje Python, para facilitar su estudio y comprensión.
+
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+
 
 If you need to resize images, you have to use an HTML tag, like this:
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
