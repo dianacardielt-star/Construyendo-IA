@@ -71,8 +71,10 @@ main()
 
 
 ## Data sources and AI methods
+
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
 If you need to use links, here's an example:
+
 [Twitter API](https://developer.twitter.com/en/docs)
 
 | Syntax      | Description |
@@ -94,6 +96,7 @@ How could your project grow and become something even more? What kind of skills,
 * list here the sources of inspiration 
 * do not use code, images, data etc. from others without permission
 * when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc# Construyendo-IA
+* etc
+
+Construyendo-IA
 Curso realizado a través de la Universidad de Helsinki
